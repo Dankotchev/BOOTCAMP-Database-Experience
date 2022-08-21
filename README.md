@@ -16,16 +16,16 @@ Repositório da jornada do [Bootcamp: Database Experience](https://web.dio.me/tr
 - [x] Introdução ao Desenvolvimento Moderno de Software
 - [x] Introdução ao Git e ao GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- [x] **Mentoria (live)** Aula Inaugural
+- [ ] **Mentoria (live)** Aula Inaugural
 
 ### Trilha: Banco de Dados SQL
 
-_2 de 16 atividades concluídas_
+_4 de 16 atividades concluídas_
 
 - [x] Contextualização do Cenário na Área de Banco de Dados
 - [x] Explorando a Abordagem de SGBDs
-- [ ] Overview sobre Modelagem de Dados
-- [ ] Arquitetura de Banco de Dados
+- [x] Overview sobre Modelagem de Dados
+- [x] Arquitetura de Banco de Dados
 - [ ] Fundamentos de Modelagem e Projeto de Banco de Dados
 - [ ] Explorando o Modelo ER - Entidade Relacionamento
 - [ ] Modelgem de Dados em EER - Enchanced Entity Relationship
