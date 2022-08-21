@@ -1,4 +1,4 @@
-# BOOTCAMP: Decola Tech 2a edição
+# BOOTCAMP: Database Experience
 
 Repositório da jornada do [Bootcamp: Database Experience](https://web.dio.me/track/sportheca-mobile-developer?tab=path) da DIO;
 
@@ -20,9 +20,9 @@ Repositório da jornada do [Bootcamp: Database Experience](https://web.dio.me/tr
 
 ### Trilha: Banco de Dados SQL
 
-*0 de 16 atividades concluídas*
+*1 de 16 atividades concluídas*
 
-- [ ] Contextualização do Cenário na Área de Banco de Dados
+- [x] Contextualização do Cenário na Área de Banco de Dados
 - [ ] Explorando a Abordagem de SGBDs
 - [ ] Overview sobre Modelagem de Dados
 - [ ] Arquitetura de Banco de Dados
