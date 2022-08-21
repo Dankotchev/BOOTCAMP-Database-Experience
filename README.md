@@ -20,10 +20,10 @@ Repositório da jornada do [Bootcamp: Database Experience](https://web.dio.me/tr
 
 ### Trilha: Banco de Dados SQL
 
-*1 de 16 atividades concluídas*
+_2 de 16 atividades concluídas_
 
 - [x] Contextualização do Cenário na Área de Banco de Dados
-- [ ] Explorando a Abordagem de SGBDs
+- [x] Explorando a Abordagem de SGBDs
 - [ ] Overview sobre Modelagem de Dados
 - [ ] Arquitetura de Banco de Dados
 - [ ] Fundamentos de Modelagem e Projeto de Banco de Dados
@@ -41,7 +41,7 @@ Repositório da jornada do [Bootcamp: Database Experience](https://web.dio.me/tr
 
 ### Trilha: Banco de Dados NoSQL
 
-*0 de 2 atividades concluídas*
+_0 de 2 atividades concluídas_
 
 - [ ] Introdução ao MongoDB e Banco de Dados NOoSQL
 - [ ] [Desafio de Projeto](): O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
